@@ -1,4 +1,4 @@
-# freeCodeCamp Machine Learning with Python
+# freeCodeCamp Data Analysis with Python
 These are the five projects for the Data Analysis with Python curriculum on freeCodeCamp.
 <br>
 ## Project List
