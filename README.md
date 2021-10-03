@@ -6,7 +6,7 @@ These are the five projects for the Data Analysis with Python curriculum on free
 * [Demographic Data Analyzer](fcc-demographic-data-analyzer)
 * [Medical Data Visualizer](fcc-medical-data-visualizer)
 * [Page View Time Series Visualizer](fcc-page-view-time-series-visualizer)
-* [Neural Network SMS Text Classifier](fcc-sea-level-predictor)
+* [Sea Level Predictor](fcc-sea-level-predictor)
 
 ## Overview
 The cirruculum helped me familiarize with Python's Data Analysis and Data Visualization libraries and techniques. These libraries include:
